@@ -29,7 +29,12 @@ El primer caso de hibridación que he elegido es Youtube. Esta plataforma lanzad
 
 Según palabras del propio Steve Chen en varias entrevistas, surgió a raíz de una necesidad: durante una fiesta querían compartir un vídeo y era algo engorroso, a diferencia de lo que ocurría con la fotografía (Flickr). Así fue como les surgió la idea de la plataforma, que en estos comienzos hibridaba el contenido audiovisual con  la posibilidad de compartirlo a través de un hiperenlace similar al que ya se utilizaba en otros ámbitos, como el comentado para la fotografía, para contenido textual, juegos online, etc. De este modo, compartir los vídeos entre personas o grupos de personas, pasó de hacerse a través de medios multimedia (email, MMS) al uso generalizado de la aplicación híbrida.
 
-Además, la plataforma ofreció una herramienta para la subida, edidción y manipulación de vídeo que hibridaba a un editor de vídeo, y que permitía que los usuarios hicieran algunas modificaciones en el audiovisual, proporcionando un medio con algunas herramientas para la postproducción antes de su publicación. Esta herramienta fue eliminada años después, eliminando un elemento de esa hibridación, en favor de otro por el que se consolidaría: la red social.
+Además, la plataforma hibridaba herramientas propias del software de edición y ofreció una herramienta para la subida, edidción y manipulación de vídeo que incormporaba un editor de vídeo como medio con el cual permitía que los usuarios hicieran algunas modificaciones en el audiovisual, proporcionando algunas herramientas para la postproducción antes de su publicación. Esta herramienta fue eliminada años después, eliminando un elemento de esa hibridación, en favor de otro por el que se consolidaría: la red social.
+
+Por otra parte, incorpora el alquiler y venta de películas en formato digital, añadiendo el medio del comercio electrónico de este sector, a una aplicación que hibrida cada vez más aspectos y más variados.
+
+A medida que transcurrió el tiempo, Youtube fue complementando sus medios incorporando los propios de las redes sociales. En este sentido, las redes sociales han cosechado una gran éxito en cuanto a uso y a la interacción entre usuarios. Por lo que esta aplicación incluyó algunos de estos aspectos propios de este tipo de aplicaciones, como son los comentarios a vídeos, Botones para valorar el contenido (Me gusta), suscripciones a canales (seguimiento de otros usuarios), e incluso permitir las publicaciones (post). De este modo, la aplicación, aunque mantiene esa “especialización” que la define y diferencia de otras (enfoque en el contenido audiovisual), con estos medios, Youtube adquiere una nueva perspectiva en la que ya no solo es una plataforma de audiovisuales utilizada prácticamente en todos los ámbitos (desde lo lúdico hasta la formación), sino que en su interior se da lugar a la interacción entre unos y otros. Y con ello, se desplaza esa idea primígenea de la que partió dando lugar a una nueva globalidad que contiene esta idea primigenia pero otras muchas adicionales, dando lugar a una aplicación nueva, más amplia en cuanto a medios, más universal o dicho con palabras de Manovich, a dado lugar a una nueva *gestalt de medios*: «los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas *gestalts de medios*. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno» (Manovich, 2014).
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 
@@ -38,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 
 #### Imágenes
