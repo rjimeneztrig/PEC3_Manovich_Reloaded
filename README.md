@@ -24,6 +24,8 @@ Por otro lado, exploraré el proyecto “Thermal Drift Density Map”, del artis
 
 ## Re-descubriendo la hibridacion: Youtube
 
+![Youtube](https://es.wikipedia.org/wiki/YouTube#/media/Archivo:YouTube_2024.svg)
+
 El primer caso de hibridación que he elegido es Youtube. Esta plataforma lanzada en el año 2005 por Chad Hurley, Steve Chen y Jawed Karim, era en un principio un espacio para poder compartir audiovisuales y visualizarlos directamente desde un navegador web. 
 
 Según palabras del propio Steve Chen en varias entrevistas, surgió a raíz de una necesidad: durante una fiesta querían compartir un vídeo y era algo engorroso, a diferencia de lo que ocurría con la fotografía (Flickr). Así fue como les surgió la idea de la plataforma, que en estos comienzos hibridaba el contenido audiovisual con  la posibilidad de compartirlo a través de un hiperenlace similar al que ya se utilizaba en otros ámbitos, como el comentado para la fotografía, para contenido textual, juegos online, etc. De este modo, compartir los vídeos entre personas o grupos de personas, pasó de hacerse a través de medios multimedia (email, MMS) al uso generalizado de la aplicación híbrida.
