@@ -3,14 +3,13 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Rubén Jiménez Triguero
 
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
-
+![Lev Manovich] (https://upload.wikimedia.org/wikipedia/commons/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
 
 ## Planteamiento
 
@@ -40,6 +39,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+#### Imágenes
+
+* Retrato Lev Manovich, por 	Michael Goldenkov / Strelka Institute.  Fuente  Wikimedia. https://commons.wikimedia.org/wiki/File:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg
+* Logotipo de YouTube (2024). Fuente Wikimedia. https://commons.wikimedia.org/wiki/File:YouTube_2024.svg
 
 
 ----
