@@ -9,7 +9,7 @@ Autor: Rubén Jiménez Triguero
 Fecha: 
 
 
-![Lev Manovich] (https://upload.wikimedia.org/wikipedia/commons/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
+![Lev Manovich](https://upload.wikimedia.org/wikipedia/commons/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
 
 ## Planteamiento
 
