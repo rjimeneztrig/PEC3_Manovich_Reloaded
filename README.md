@@ -38,14 +38,15 @@ A medida que transcurre el tiempo, Youtube ha ido complementando sus medios inco
 Con toda esta **combinación de medios**, la aplicación, aunque mantiene esa *especialización* que la define y diferencia de otras (enfoque en el contenido audiovisual), adquiere una nueva perspectiva en la que ya no solo es una plataforma de audiovisuales utilizada prácticamente en todos los ámbitos (desde lo lúdico hasta la formación), sino que en su interior se da lugar a la interacción entre unos y otros. Y con ello, se desplaza esa idea primigenia de la que partió dando lugar a una nueva globalidad que contiene todas esas funcionalidades pero otras muchas adicionales, dando lugar a una aplicación nueva, más amplia y universal en cuanto o dicho con palabras de Lev Manovich, ha dado lugar a una ***gestalt de medios***: «los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas *gestalts de medios*. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno» (Manovich, 2014).
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## “Thermal Drift Density Map” y el arte híbrido de Rafael Lozano-Hemmer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía que su «rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Y esta afirmación puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido de sus primeras experimentaciones artísticas.
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Entrevista a Rafael Lozano-Hemmer. Portavoztv. https://www.youtube.com/watch?v=IBL6imnolEk&ab_channel=portavoztv
 
 
 #### Imágenes
