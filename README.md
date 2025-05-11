@@ -40,7 +40,7 @@ Con toda esta **combinación de medios**, la aplicación, aunque mantiene esa *e
 
 ## “Thermal Drift Density Map” y el arte híbrido de Rafael Lozano-Hemmer
 
-En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía que su «rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Y esta afirmación puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido de sus primeras experimentaciones artísticas.
+En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Y esta afirmación puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido de sus primeras experimentaciones artísticas.
 
 
 ### Referencias y Bibliografía
