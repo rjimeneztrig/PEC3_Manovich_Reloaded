@@ -21,9 +21,15 @@ Por un lado exploraré la aplicación de Youtube, un proyecto en su madurez que 
 Por otro lado, exploraré el proyecto “Thermal Drift Density Map”, del artista Rafael Lozano-Hemmer, un proyecto artístico interactivo, en el cual se generan imágenes dinámicas capturando el movimiento de la persona que está frente a la pieza de arte. Para producir estas obras artísticas se combina el uso de la captura de vídeo térmico,  el uso de software generativo y el vídeoarte.
 
 
+
+
 ## Re-descubriendo la hibridacion: Youtube
 
+
+
 ![Youtube](https://upload.wikimedia.org/wikipedia/commons/2/20/YouTube_2024.svg)
+
+
 
 El primer caso de hibridación que he elegido es Youtube. Esta plataforma lanzada en el año 2005 por Chad Hurley, Steve Chen y Jawed Karim, era en un principio un espacio donde poder **subir, editar y compartir audiovisuales** y visualizarlos directamente desde un navegador web. 
 
@@ -38,11 +44,25 @@ A medida que transcurre el tiempo, Youtube ha ido complementando sus medios inco
 Con toda esta **combinación de medios**, la aplicación, aunque mantiene esa *especialización* que la define y diferencia de otras (enfoque en el contenido audiovisual), adquiere una nueva perspectiva en la que ya no solo es una plataforma de audiovisuales utilizada prácticamente en todos los ámbitos (desde lo lúdico hasta la formación), sino que en su interior se da lugar a la interacción entre unos y otros. Y con ello, se desplaza esa idea primigenia de la que partió dando lugar a una nueva globalidad que contiene todas esas funcionalidades pero otras muchas adicionales, dando lugar a una aplicación nueva, más amplia y universal en cuanto o dicho con palabras de Lev Manovich, ha dado lugar a una ***gestalt de medios***: «los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas *gestalts de medios*. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno» (Manovich, 2014).
 
 
+
 ## “Thermal Drift Density Map” y el arte híbrido de Rafael Lozano-Hemmer
 
 En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Y esta afirmación puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido de sus primeras experimentaciones artísticas.
 
+Para la elaboración de este texto, he decidido centrarme en uno de sus proyectos: «Thermal Drift Density Map», un proyecto de arte generativo en el cual se realiza una grabación térmica de la persona que contempla la obra y, mediante un software generativo, se crea una obra de arte que finalmente es mostrada a través de una pantalla. Por lo tanto, la pieza artística resultante, es dinámica, efímera y cambiante, ya que su propia existencia, depende de la persona que la observa y de los movimientos que esta haga.
 
+El fin de toda esta idea es capturar el calor térmico del cuerpo para luego mostrar en paquetes de movimiento, como esa energía se propaga o expande desde el cuerpo.
+
+
+Para este proyecto, el artista ha necesitado la combinación de varios medios:
+
+
+- **Grabación de vídeo térmico**: el vídeo térmico se utiliza principalmente en contextos de seguridad, vigilancia, etc. Con lo cual, el proyecto descontextualiza la utilidad principal que se le da a este tipo de medios para implementarlo en un proyecto híbrido dándole una nueva significación: mostrar como el ser humano no acaba en los límites físicos que delimitan su propio cuerpo.
+- **Software generativo**: el software generativo se utiliza en múltiples sectores y el campo del arte también se ha nutrido de este medio para diferentes tipos de proyectos híbridos.
+- **Videoarte**: el videoarte surge a finales de la década de los sesenta del siglo XX como una nueva forma de manifestación artística por parte de grupos experimentales que rechazaban el arte académico y el mercado del arte. Desde entonces, ha estado evolucionando constántemente y fusiónandose con otras formas de arte.
+- **La persona**: tradicionalmente, la persona que observa una pieza artística, no interviene en ella, sin embargo, en este caso, como en otros tantos proyectos de Lozano-Hemmer, la persona que contempla la obra es la receptora y al mismo tiempo parte creadora, ya que no solo interviene, sino que le da sentido, es decir, la pieza artística solo puede existir si hay una persona delante de la cámara.
+
+    
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
