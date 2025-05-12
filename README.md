@@ -22,14 +22,16 @@ Por otro lado, exploraré el proyecto “Thermal Drift Density Map”, del artis
 
 
 
-
 ## Re-descubriendo la hibridacion: Youtube
 
 
 
+    
+
 ![Youtube](https://upload.wikimedia.org/wikipedia/commons/2/20/YouTube_2024.svg)
 
 
+  
 
 El primer caso de hibridación que he elegido es Youtube. Esta plataforma lanzada en el año 2005 por Chad Hurley, Steve Chen y Jawed Karim, era en un principio un espacio donde poder **subir, editar y compartir audiovisuales** y visualizarlos directamente desde un navegador web. 
 
@@ -47,7 +49,7 @@ Con toda esta **combinación de medios**, la aplicación, aunque mantiene esa *e
 
 ## “Thermal Drift Density Map” y el arte híbrido de Rafael Lozano-Hemmer
 
-![](https://galloire.com/wp-content/uploads/2023/03/Thermal-Drift-Density-Map-Concept-Sheet_Horizontal-1-1200x886.jpg)
+![](https://www.lozano-hemmer.com/image_sets/thermal_drift_density_map/montreal_2022/thermal_drift_density_map_montreal_2022_rlh_02.jpg#center)
 
 En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Es una afirmación que bien puede resumir en pocas palabras la génesis híbrida de toda su obra, y que además, puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido dsde sus primeras experimentaciones artísticas.
 
@@ -82,6 +84,7 @@ Así pues, con esta **hibridación en el campo del arte**, nos encontramos con u
 
 * Retrato Lev Manovich, por 	Michael Goldenkov / Strelka Institute.  Fuente  Wikimedia. https://commons.wikimedia.org/wiki/File:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg
 * Logotipo de YouTube (2024). Fuente Wikimedia. https://commons.wikimedia.org/wiki/File:YouTube_2024.svg
+* Fotografía de participante en "Thermal Drift Density Map". Antimodular Studio. Fuente www.lozano-hemmer.com. Licencia: Creative Commons Attribution -Noncommercial-Share Alike 3.0 Spain License.  https://www.lozano-hemmer.com/image_sets/thermal_drift_density_map/montreal_2022/thermal_drift_density_map_montreal_2022_rlh_02.jpg 
 
 
 ----
