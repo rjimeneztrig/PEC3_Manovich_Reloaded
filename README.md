@@ -71,6 +71,7 @@ Así pues, con esta **hibridación en el campo del arte**, nos encontramos con u
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Bouillot, C. (2018). Youtube : la plataforma de vídeo que revoluciona el mundo digital. Traducido por Laura Bernal Martin. (L. Bernal Martin, Trad.; 1st ed.). 50Minutos.es.
 * Entrevista a Rafael Lozano-Hemmer. Portavoztv. https://www.youtube.com/watch?v=IBL6imnolEk&ab_channel=portavoztv
 * Lozano-Hemmer, Rafael. Thermal Drift Density Map. Proyecto. https://www.lozano-hemmer.com/thermal_drift_density_map.php
 * Lozano-Hemmer, Rafael. Thermal Drift Density Map. Manual. https://www.lozano-hemmer.com/texts/manuals/thermal_drift_density_map.pdf
