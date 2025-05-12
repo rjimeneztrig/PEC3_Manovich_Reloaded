@@ -67,7 +67,7 @@ Para este proyecto, el artista ha necesitado la combinación de varios medios:
 
 * Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Entrevista a Rafael Lozano-Hemmer. Portavoztv. https://www.youtube.com/watch?v=IBL6imnolEk&ab_channel=portavoztv
-* Baigorri, L. (2013). Vídeo de creación, febrero 2013. UOC.
+* Baigorri, L. (2013). Los inicios del vídeo de creación, febrero 2013. UOC. https://openaccess.uoc.edu/bitstream/10609/69665/2/V%c3%addeo%20de%20creaci%c3%b3n_M%c3%b3dulo%201_Los%20inicios%20del%20v%c3%addeo%20de%20creaci%c3%b3n.pdf
 
 
 #### Imágenes
