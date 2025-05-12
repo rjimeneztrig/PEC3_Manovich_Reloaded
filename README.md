@@ -67,6 +67,7 @@ Para este proyecto, el artista ha necesitado la combinación de varios medios:
 
 * Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Entrevista a Rafael Lozano-Hemmer. Portavoztv. https://www.youtube.com/watch?v=IBL6imnolEk&ab_channel=portavoztv
+* Baigorri, L. (2013). Vídeo de creación, febrero 2013. UOC.
 
 
 #### Imágenes
