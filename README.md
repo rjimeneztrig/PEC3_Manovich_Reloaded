@@ -47,11 +47,13 @@ Con toda esta **combinación de medios**, la aplicación, aunque mantiene esa *e
 
 ## “Thermal Drift Density Map” y el arte híbrido de Rafael Lozano-Hemmer
 
-En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Y esta afirmación puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido de sus primeras experimentaciones artísticas.
+![](https://galloire.com/wp-content/uploads/2023/03/Thermal-Drift-Density-Map-Concept-Sheet_Horizontal-1-1200x886.jpg)
 
-Para la elaboración de este texto, he decidido centrarme en uno de sus proyectos: «Thermal Drift Density Map», un proyecto de arte generativo en el cual se realiza una grabación térmica de la persona que contempla la obra y, mediante un software generativo, se crea una obra de arte que finalmente es mostrada a través de una pantalla. Por lo tanto, la pieza artística resultante, es dinámica, efímera y cambiante, ya que su propia existencia, depende de la persona que la observa y de los movimientos que esta haga.
+En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi rol siempre ha sido el de compaginar, el de integrar diferentes medios para crear una obra». Es una afirmación que bien puede resumir en pocas palabras la génesis híbrida de toda su obra, y que además, puede comprobarse en cualquiera de sus proyectos, ya que es un artista híbrido dsde sus primeras experimentaciones artísticas.
 
-El fin de toda esta idea es capturar el calor térmico del cuerpo para luego mostrar en paquetes de movimiento, como esa energía se propaga o expande desde el cuerpo.
+Para la elaboración de este texto, me centraré en uno de sus proyectos: «Thermal Drift Density Map» (2022), un proyecto de arte generativo en el cual se realiza una grabación térmica de la persona que contempla la obra y, mediante un software generativo, se crea una obra de arte que finalmente es mostrada a través de una pantalla. Por lo tanto, la pieza artística resultante, es dinámica, efímera y cambiante, ya que su propia existencia, depende de la persona que la observa y de los movimientos que esta haga.
+
+El fin de toda esta idea es capturar el calor térmico del cuerpo para luego mostrar en paquetes de movimiento como esa energía se propaga o expande desde el cuerpo.
 
 
 Para este proyecto, el artista ha necesitado la combinación de varios medios:
@@ -62,11 +64,16 @@ Para este proyecto, el artista ha necesitado la combinación de varios medios:
 - **Videoarte**: el videoarte surge a finales de la década de los sesenta del siglo XX como una nueva forma de manifestación artística por parte de grupos experimentales que rechazaban el arte académico y el mercado del arte. Desde entonces, ha estado evolucionando constántemente y fusiónandose con otras formas de arte.
 - **La persona**: tradicionalmente, la persona que observa una pieza artística, no interviene en ella, sin embargo, en este caso, como en otros tantos proyectos de Lozano-Hemmer, la persona que contempla la obra es la receptora y al mismo tiempo parte creadora, ya que no solo interviene, sino que le da sentido, es decir, la pieza artística solo puede existir si hay una persona delante de la cámara.
 
+Lozano-Hemmer **utiliza una serie de medios para lograr una significación** del conjunto. Todas las partes son necesarias para alcanzar este fin: la persona emite el calor que capta la cámara, obteniendo el material con el que se trabaja; los algoritmos interpretan todo ese material y generan una serie de formas gráficas; y la pantalla, finalmente, muestra el resultado para que pueda tener **un sentido para quien observa**. De este modo, es un proyecto híbrido que integra una serie de medios creando algo nuevo, fusionándolo, ya que perdería su sentido si faltase cualquiera de las partes que lo componen.
+
+Así pues, con esta **hibridación en el campo del arte**, nos encontramos con una nueva *especie* que no podría funcionar sin el metamedio ordenador, y que puede ser un nuevo ejemplo para lo que Manevich sostiene cuando dice que «el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos» (2014).
     
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2014). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Entrevista a Rafael Lozano-Hemmer. Portavoztv. https://www.youtube.com/watch?v=IBL6imnolEk&ab_channel=portavoztv
+* Lozano-Hemmer, Rafael. Thermal Drift Density Map. Proyecto. https://www.lozano-hemmer.com/thermal_drift_density_map.php
+* Lozano-Hemmer, Rafael. Thermal Drift Density Map. Manual. https://www.lozano-hemmer.com/texts/manuals/thermal_drift_density_map.pdf
 * Baigorri, L. (2013). Los inicios del vídeo de creación, febrero 2013. UOC. https://openaccess.uoc.edu/bitstream/10609/69665/2/V%c3%addeo%20de%20creaci%c3%b3n_M%c3%b3dulo%201_Los%20inicios%20del%20v%c3%addeo%20de%20creaci%c3%b3n.pdf
 
 
