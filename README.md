@@ -20,7 +20,7 @@ Por otro lado, exploraré el proyecto “Thermal Drift Density Map”, del artis
 
 
 
-## Re-descubriendo la hibridacion: Youtube
+##  Youtube y su evolución como red social
 
 
 
