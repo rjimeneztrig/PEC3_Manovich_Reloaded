@@ -6,10 +6,8 @@
 Autor: Rubén Jiménez Triguero
 
 
-Fecha: 
+Fecha: 13/05/2025
 
-
-![Lev Manovich](https://upload.wikimedia.org/wikipedia/commons/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
 
 ## Planteamiento
 
@@ -80,7 +78,7 @@ Así pues, con esta **hibridación en el campo del arte**, nos encontramos con u
 
 #### Imágenes
 
-* Retrato Lev Manovich, por Michael Goldenkov / Strelka Institute.  Fuente  Wikimedia. https://commons.wikimedia.org/wiki/File:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg
+
 * Logotipo de YouTube (2024). Fuente Wikimedia. https://commons.wikimedia.org/wiki/File:YouTube_2024.svg
 * Fotografía de participante en "Thermal Drift Density Map". Antimodular Studio. Fuente www.lozano-hemmer.com. Licencia: Creative Commons Attribution -Noncommercial-Share Alike 3.0 Spain License.  https://www.lozano-hemmer.com/image_sets/thermal_drift_density_map/montreal_2022/thermal_drift_density_map_montreal_2022_rlh_02.jpg 
 
