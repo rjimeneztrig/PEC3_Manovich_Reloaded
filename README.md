@@ -51,7 +51,7 @@ En una entrevista para Portavoztv, el artista Rafael Lozano-Hemmer decía: «mi 
 
 Para la elaboración de este texto, me centraré en uno de sus proyectos: «Thermal Drift Density Map» (2022), un **proyecto de arte generativo** en el cual se realiza una grabación térmica de la persona que contempla la obra y, mediante un software generativo, se crea una obra de arte que finalmente es mostrada a través de una pantalla. Por lo tanto, la pieza artística resultante es dinámica, efímera y cambiante, ya que su propia existencia depende de la persona que la observa y de los movimientos que haga frente a la cámara.
 
-El fin de todo el proceso es capturar el calor térmico del cuerpo para luego mostrar en paquetes de movimiento como esa energía se propaga o expande desde el cuerpo, de tal modo, que quien observe la pieza, pueda contemplar la dispersión de esa energía a través del espacio que le rodea.
+El fin de todo el proceso es capturar el calor térmico del cuerpo para luego mostrar en la pantalla (a través de paquetes de burbujas que representan el calor) cómo esa energía se propaga o expande desde el cuerpo, de tal modo que quien observe la pieza, pueda contemplar la dispersión de esa energía a través del espacio que le rodea.
 
 
 Para este proyecto, el artista ha necesitado la combinación de varios medios:
