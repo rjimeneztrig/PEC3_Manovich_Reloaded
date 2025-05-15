@@ -14,7 +14,7 @@ Fecha: 13/05/2025
 
 En este trabajo planteo una aproximación a dos contextos bien diferenciados donde la hibridación no solo forma parte de los mismos, sino que les da sentido a su propia integridad. De este modo, trato de analizar estas dos aplicaciones de la hibridez, desde "las gafas" de Lev Manovich.
 
-Por un lado, exploraré la aplicación de Youtube, un proyecto en su madurez que ha ido cambiando con el tiempo y que desde su nacimiento es un producto que integra lo híbrido, convirtiéndose, con el paso del tiempo, en un metamedio de medios utilizados en las redes sociales.
+Por un lado, exploraré la aplicación de Youtube, un proyecto en su madurez que ha ido cambiando con el tiempo y que desde su nacimiento es un producto que integra lo híbrido, convirtiéndose, con el paso del tiempo, en un **metamedio** de medios utilizados en las redes sociales.
 
 Por otro lado, exploraré el proyecto “Thermal Drift Density Map”, del artista Rafael Lozano-Hemmer, un proyecto artístico interactivo, en el cual se generan imágenes dinámicas capturando el movimiento de la persona que está frente a la pieza de arte. Para producir estas obras artísticas se combina el uso de la captura de vídeo térmico, el uso de software generativo y el videoarte. Un proyecto que se vale de una serie de medios para conformar una manifestación artística única.
 
